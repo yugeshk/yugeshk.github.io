@@ -1,5 +1,5 @@
 Homepage using Jekyll with support for tagged blogs etc.
 
-## ERROR
+## Warning
 
-Pagination is not working at the moment.
+Pagionation might not work locally without jekyll-paginate
