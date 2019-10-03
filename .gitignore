@@ -4,3 +4,4 @@ scripts
 _site
 _config.dev.yml
 .jekyll-cache
+artifacts
