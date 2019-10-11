@@ -468,3 +468,8 @@ body {
     right: 0;
     background-size: cover;
 }
+
+.copyleft {
+  display:inline-block;
+  transform: rotateY(180deg);
+}
