@@ -445,3 +445,26 @@ body {
 .fourofour {
   border: 1px solid $primary-color !important;
 }
+
+// Side Background
+
+.left-bg {
+    background: url('../../../../assets/left.png');
+    width: 25%;
+    height: 100%;
+    position: fixed;
+    z-index: -1;
+    top: 0;
+    background-size: cover;
+}
+
+.right-bg {
+    background: url('../../../../assets/right.png');
+    width: 25%;
+    height: 100%;
+    position: fixed;
+    z-index: -1;
+    top: 0;
+    right: 0;
+    background-size: cover;
+}
