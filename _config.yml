@@ -133,12 +133,21 @@ syntax-highlight: True
 ############
 
 events:
+  - image : "/img/timeline/mpi.png"
+    date : "Jan 2020 - Present"
+    description : "Research Assistant \n Practical Formal Methods"
+  - image: "/img/timeline/epfl.png"
+    date : "Jun 2020 - Sept 2020"
+    description : "Research Intern \n Network Architecture Lab"
+  - image : "/img/timeline/mastercard.jpg"
+    date : "May 2020 - Jun 2020"
+    description : "DevOps Intern \n Data and Services Team"
   - image: "/img/timeline/pclub.png"
-    date: "March 2019 - Present"
+    date: "March 2019 - March 2020"
     description: "Programming Club Coordinator"
   - image: "/img/timeline/purdue.png"
     date: "May 2019 - July 2019"
-    description: "Research Assistant at Purdue University"
+    description: "Research Intern at Purdue University"
   - image: "/img/timeline/soc.png"
     date: "May 2019 - July 2019"
     description: "Program Coordinator \n Summer of Code, IIT Kanpur"
@@ -165,7 +174,7 @@ phone: +91-9123159658
 # This works best when your author blurb image has a transparent background, or matches your site background color.
 
 # if the author_blurb is not set, then this feature is skipped
-author_blurb: "Yugesh is a third year CS undergrad at IIT Kanpur. He's passionate about technology and loves building systems."
+author_blurb: "Yugesh is a fianl year CS undergrad at IIT Kanpur. His research interests include software systems, program verification and programming languages."
 author_blurb_image: "/img/author.jpg"
 
 ##################
