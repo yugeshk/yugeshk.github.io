@@ -133,8 +133,11 @@ syntax-highlight: True
 ############
 
 events:
+  - image : "/img/timeline/epfl.png"
+    date :  "Sept 2021 - Present"
+    description : "Doctoral Research Assistant \n\n Dependable Systems Lab"
   - image : "/img/timeline/mpi.png"
-    date : "Jan 2020 - Present"
+    date : "Jan 2020 - Jun 2021"
     description : "Research Assistant \n\n Practical Formal Methods"
   - image: "/img/timeline/epfl.png"
     date : "Jun 2020 - Sept 2020"
