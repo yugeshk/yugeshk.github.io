@@ -174,10 +174,10 @@ phone: "Ph: Available on request"
 ################
 
 # The author blurb goes underneath blog posts.
-# This works best when your author blurb image has a transparent background, or matches your site background color.
+# Works best when your author blurb image has a transparent background, or matches your site background color.
 
 # if the author_blurb is not set, then this feature is skipped
-author_blurb: "Yugesh is a fianl year CS undergrad at IIT Kanpur. His research interests include software systems, program verification and programming languages."
+author_blurb: "Yugesh is a first year PhD student at EPFL. His research interests include software systems, program verification and programming languages."
 author_blurb_image: "/img/author.jpg"
 
 ##################
